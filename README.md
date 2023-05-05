@@ -26,7 +26,7 @@ Here are some ideas to get you started:
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&duration=5000&size=16&color=6791c9&center=true&width=410&height=45&lines=Hello+There!+👋;Welcome+to+my+GitHub+profile...">
       <br>
       <br>
-        I'm Jahir, a software engineer Student, I like to code👨🏻‍💻, reading learning📚 and listen to music🎶.
+        I'm Jahir, a software engineer Student👨🏻‍🎓, I like to code👨🏻‍💻, reading learning📚 and listen to music🎶.
         <br>
       </b>
       <b>
